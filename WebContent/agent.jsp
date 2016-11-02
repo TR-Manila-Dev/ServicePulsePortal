@@ -173,12 +173,12 @@
 
     <div class="content animate-panel">
 		<div class="row">
-            <div class="col-md-12 col-lg-9">
+            <div class="col-sm-12 col-lg-9">
                
                 <div class="hpanel">                    
                     <div class="panel-body" id="mainscorebox">
                         <div class="row">
-                            <div class="col-md-12 col-lg-4 text-center">                            	
+                            <div class="col-sm-12 col-lg-4 text-center">                            	
 		                        <div class="row">
 			                        <div class="stats-title text-center m-l-md m-t-md">
 	                            		<h4>Agent Overall Score</h4>
@@ -191,7 +191,7 @@
 			                        		</div>
 				                        </div>                          	                                
 		                            </div>
-		                            <div class="col-md-12 col-lg-8 text-center">
+		                            <div class="col-sm-12 col-lg-8 text-center">
 		                                <div class="text-center small">
 		                                     <h3>Service Pulse Trend Chart</h3>
 		                                </div>
@@ -206,7 +206,7 @@
 		    	
 		   
 		    <div class="row">
-				<div class="col-md-12 col-lg-4 ">
+				<div class="col-sm-12 col-lg-4 ">
 	    				<div class="hpanel stats">
 	        				<div class="panel-body h-200">
 				            	<div class="stats-title pull-left">
@@ -229,7 +229,7 @@
 	    	        </div>
 	    	  	 </div>
 
-	    		<div class="col-md-12 col-lg-4 ">
+	    		<div class="col-sm-12 col-lg-4 ">
 					<div class="hpanel stats" id="scorebreakdownscore">		                
 					    	<div class="panel-body piechart_box">
 					        	<div class="stats-title pull-left">
@@ -250,7 +250,7 @@
 						    </div>
 					</div>
 	    	</div>
-	    		<div class="col-md-12 col-lg-4 ">
+	    		<div class="col-sm-12 col-lg-4 ">
 	    			<div class="hpanel stats" id="factorbucketsscore">		                
 				    	<div class="panel-body piechart_box">
 				        	<div class="stats-title pull-left">
@@ -275,7 +275,7 @@
 			</div>
 		
 	    	<div class="row">
-		    	<div class="col-md-12 col-lg-12"> 
+		    	<div class="col-sm-12 col-lg-12"> 
 				<div class="hpanel" id="timelinessbucketscore">
 					<div class="panel-body">
 						<div class="table-responsive">
@@ -297,7 +297,7 @@
 			</div>
 		</div>	
 	
-		<div class="col-md-12 col-lg-3">
+		<div class="col-sm-12 col-lg-3">
 		    	<div class="row">
 			    		  <div class="hpanel stats">
 	        				<div class="panel-body h-200">
@@ -384,12 +384,12 @@
                 <small> Lorem Ipsum is simply dummy text of the printing simply all dummy text.</small>
             </div>
             <div class="row m-t-sm m-b-sm">
-                <div class="col-md-12 col-lg-6">
+                <div class="col-sm-12 col-lg-6">
                     <h3 class="no-margins font-extra-bold text-success">300,102</h3>
 
                     <div class="font-bold">98% <i class="fa fa-level-up text-success"></i></div>
                 </div>
-                <div class="col-md-12 col-lg-6">
+                <div class="col-sm-12 col-lg-6">
                     <h3 class="no-margins font-extra-bold text-success">280,200</h3>
 
                     <div class="font-bold">98% <i class="fa fa-level-up text-success"></i></div>
@@ -507,11 +507,11 @@
 	               <div class="content animate-panel">
 
 				        <div class="row">
-				            <div class="col-md-12 col-lg-12">
+				            <div class="col-sm-12 col-lg-12">
 				                <div class="hpanel">                    
 				                    <div class="panel-body">
 				                        <div class="row">
-				                            <div class="col-md-12 col-lg-3 text-center">                            	
+				                            <div class="col-sm-12 col-lg-3 text-center">                            	
 						                        <div class="row">
 							                        <div class="stats-title text-center m-l-md">
 					                            		<h4>   Overall Score</h4>
@@ -519,7 +519,7 @@
 						                        </div>
 												<div class="row m-t-sm m-l-md" id="prodlcscore_box_modalprodlc"></div>                       	                                
 				                            </div>
-				                            <div class="col-md-12 col-lg-9">
+				                            <div class="col-sm-12 col-lg-9">
 				                                <div class="text-center small">
 				                                     <h3><span id="maincharttitleprodlc"></span>Service Pulse Trend Chart</h3>
 				                                </div>
@@ -540,9 +540,9 @@
 
 				        </div>
 				        <div class="row">
-				        	<div class="col-md-12 col-lg-8">
+				        	<div class="col-sm-12 col-lg-8">
 				       		 	<div class="row">
-				       		 		<div class="col-md-12 col-lg-6">
+				       		 		<div class="col-sm-12 col-lg-6">
 						                <div class="hpanel stats">		                
 						                    <div class="panel-body piechart_box">
 						                        <div class="stats-title pull-left">
@@ -558,10 +558,10 @@
 						                        <div class="m-t-xs">
 						                        </div>
 						                    </div>
-						                    <div class="panel-footer contact-footer" id="detractsupport_tab_modalprodlc"><div class="row"><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Supporters: </span> <strong>73%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Positive: </span> <strong>23%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Negative: </span> <strong>4%</strong></div> </div><div class="col-md-12 col-lg-3 "> <div class="contact-stat"><span>Detractors: </span> <strong>1%</strong></div> </div></div></div>
+						                    <div class="panel-footer contact-footer" id="detractsupport_tab_modalprodlc"><div class="row"><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Supporters: </span> <strong>73%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Positive: </span> <strong>23%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Negative: </span> <strong>4%</strong></div> </div><div class="col-sm-12 col-lg-3 "> <div class="contact-stat"><span>Detractors: </span> <strong>1%</strong></div> </div></div></div>
 						                </div>
 						            </div>
-						            <div class="col-md-12 col-lg-6">
+						            <div class="col-sm-12 col-lg-6">
 						                <div class="hpanel stats">		                
 						                    <div class="panel-body piechart_box">
 						                        <div class="stats-title pull-left">
@@ -578,12 +578,12 @@
 						
 						                        </div>
 						                    </div>
-						                    <div class="panel-footer contact-footer" id="factorbuckets_tab_modalprodlc"><div class="row"><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Knowledge: </span> <strong>75%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Speed: </span> <strong>76%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Ownership: </span> <strong>78%</strong></div> </div><div class="col-md-12 col-lg-3 "> <div class="contact-stat"><span>Comms: </span> <strong>81%</strong></div> </div></div></div>
+						                    <div class="panel-footer contact-footer" id="factorbuckets_tab_modalprodlc"><div class="row"><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Knowledge: </span> <strong>75%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Speed: </span> <strong>76%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Ownership: </span> <strong>78%</strong></div> </div><div class="col-sm-12 col-lg-3 "> <div class="contact-stat"><span>Comms: </span> <strong>81%</strong></div> </div></div></div>
 						                </div>
 						            </div>
 				       		 	</div>
 				       		 	<div class="row">
-				       		 		<div class="col-md-12 col-lg-12">
+				       		 		<div class="col-sm-12 col-lg-12">
 								        <div class="hpanel" id="timelinessbucketscore">
 				
 								            <div class="panel-body">
@@ -597,7 +597,7 @@
 								    </div>
 				       		 	</div>
 				            </div>            
-				            <div class="col-md-12 col-lg-4">
+				            <div class="col-sm-12 col-lg-4">
 				                <div class="hpanel">
 				                    
 				                    <div class="panel-body list">
@@ -632,11 +632,11 @@
 	               <div class="content animate-panel">
 
 				        <div class="row">
-				            <div class="col-md-12 col-lg-12">
+				            <div class="col-sm-12 col-lg-12">
 				                <div class="hpanel">                    
 				                    <div class="panel-body">
 				                        <div class="row">
-				                            <div class="col-md-12 col-lg-3 text-center">                            	
+				                            <div class="col-sm-12 col-lg-3 text-center">                            	
 						                        <div class="row">
 							                        <div class="stats-title text-center m-l-md">
 					                            		<h4>   Overall Score</h4>
@@ -644,7 +644,7 @@
 						                        </div>
 												<div class="row m-t-sm m-l-md" id="prodlcscore_box_modalwg"></div>                       	                                
 				                            </div>
-				                            <div class="col-md-12 col-lg-9">
+				                            <div class="col-sm-12 col-lg-9">
 				                                <div class="text-center small">
 				                                     <h3><span id="maincharttitlewg"></span>Service Pulse Trend Chart</h3>
 				                                </div>
@@ -665,9 +665,9 @@
 
 				        </div>
 				        <div class="row">
-				        	<div class="col-md-12 col-lg-8">
+				        	<div class="col-sm-12 col-lg-8">
 				       		 	<div class="row">
-				       		 		<div class="col-md-12 col-lg-6">
+				       		 		<div class="col-sm-12 col-lg-6">
 						                <div class="hpanel stats">		                
 						                    <div class="panel-body piechart_box">
 						                        <div class="stats-title pull-left">
@@ -683,10 +683,10 @@
 						                        <div class="m-t-xs">
 						                        </div>
 						                    </div>
-						                    <div class="panel-footer contact-footer" id="detractsupport_tab_modalwg"><div class="row"><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Supporters: </span> <strong>73%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Positive: </span> <strong>23%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Negative: </span> <strong>4%</strong></div> </div><div class="col-md-12 col-lg-3 "> <div class="contact-stat"><span>Detractors: </span> <strong>1%</strong></div> </div></div></div>
+						                    <div class="panel-footer contact-footer" id="detractsupport_tab_modalwg"><div class="row"><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Supporters: </span> <strong>73%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Positive: </span> <strong>23%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Negative: </span> <strong>4%</strong></div> </div><div class="col-sm-12 col-lg-3 "> <div class="contact-stat"><span>Detractors: </span> <strong>1%</strong></div> </div></div></div>
 						                </div>
 						            </div>
-						            <div class="col-md-12 col-lg-6">
+						            <div class="col-sm-12 col-lg-6">
 						                <div class="hpanel stats">		                
 						                    <div class="panel-body piechart_box">
 						                        <div class="stats-title pull-left">
@@ -703,12 +703,12 @@
 						
 						                        </div>
 						                    </div>
-						                    <div class="panel-footer contact-footer" id="factorbuckets_tab_modalprodlc"><div class="row"><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Knowledge: </span> <strong>75%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Speed: </span> <strong>76%</strong></div> </div><div class="col-md-12 col-lg-3 border-right"> <div class="contact-stat"><span>Ownership: </span> <strong>78%</strong></div> </div><div class="col-md-12 col-lg-3 "> <div class="contact-stat"><span>Comms: </span> <strong>81%</strong></div> </div></div></div>
+						                    <div class="panel-footer contact-footer" id="factorbuckets_tab_modalprodlc"><div class="row"><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Knowledge: </span> <strong>75%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Speed: </span> <strong>76%</strong></div> </div><div class="col-sm-12 col-lg-3 border-right"> <div class="contact-stat"><span>Ownership: </span> <strong>78%</strong></div> </div><div class="col-sm-12 col-lg-3 "> <div class="contact-stat"><span>Comms: </span> <strong>81%</strong></div> </div></div></div>
 						                </div>
 						            </div>
 				       		 	</div>
 				       		 	<div class="row">
-				       		 		<div class="col-md-12 col-lg-12">
+				       		 		<div class="col-sm-12 col-lg-12">
 								        <div class="hpanel">
 				
 								            <div class="panel-body">
@@ -722,7 +722,7 @@
 								    </div>
 				       		 	</div>
 				            </div>            
-				            <div class="col-md-12 col-lg-4">
+				            <div class="col-sm-12 col-lg-4">
 				                <div class="hpanel">
 				                    
 				                    <div class="panel-body list">
@@ -748,14 +748,14 @@
 <!--  RAW DATA VIEW -->
 
 	<div class="modal fade" id="SppRawData" tabindex="-1" role="dialog"  aria-hidden="true">
-		   <div class="col-md-12 col-lg-12 preload" id="preloadcube"></div>	
+		   <div class="col-sm-12 col-lg-12 preload" id="preloadcube"></div>	
            <div class="modal-dialog modal-lg superlargemodal">
                <div class="modal-content">
                    <div class="color-line"></div>
                    <div class="modal-header custom_modal_header">
 						<div class="row">
-							<div class="col-md-12 col-lg-8">
-								<div class="col-md-12 col-lg-2">									
+							<div class="col-sm-12 col-lg-8">
+								<div class="col-sm-12 col-lg-2">									
 			                		<div class="m-t-md">
 			                			<label class='col-sm-2 control-label'>View</label>
 				                		<select class="form-control m-b" name="filter_view_rawmodal" id="filter_view_rawmodal">
@@ -766,21 +766,21 @@
 							            </select>
 						            </div>
 								</div>
-								<div class="col-md-12 col-lg-2">
+								<div class="col-sm-12 col-lg-2">
 										<div class="m-t-md">
 		                        			<label class='col-sm-2 control-label'>Year</label>
 					                        <select class='form-control m-b' name='yearno_rawmodal' id='yearno_rawmodal' ></select>
 					                    </div>
 								</div>
-								<div class="col-md-12 col-lg-2">
+								<div class="col-sm-12 col-lg-2">
 									<div class="m-t-md">
 										<label class='col-sm-2 control-label' id="freqno_label_rawmodal"></label>		                			
 		                				<select class='form-control m-b' name='freqno_rawmodal' id='freqno_rawmodal'></select>
 		                			</div>	
 								</div>
-								<div class="col-md-12 col-lg-2">									
+								<div class="col-sm-12 col-lg-2">									
 		                			<div class="m-t-xl">
-		                				<div class="col-md-12 col-lg-6">
+		                				<div class="col-sm-12 col-lg-6">
 		                					<button type="button" class="btn btn-primary " id="extractrawdatabut">Run</button>
 		                				</div>		                				
 		                			</div>	

@@ -1622,7 +1622,7 @@ function GetDetractSupportSppScore(param_view, param_freqno, param_yearno){
 		var dataTable2 = "";
 		
 		dataTable = dataTable +"<div class='row'>"
-		dataTable = dataTable +"<div class='col-lg-3 border-right'> <span class='text-center'>Supporters </span> <strong>"+ Math.round(tp2_supporter) +"%</strong></div> </div>"
+		dataTable = dataTable +"<div class='col-lg-3 border-right'> <div class='contact-stat'><span class='text-center'>Supporters </span> <strong>"+ Math.round(tp2_supporter) +"%</strong></div> </div>"
 		dataTable = dataTable +"<div class='col-lg-3 border-right'> <div class='contact-stat'><span class='text-center'>Positive </span> <strong>"+ Math.round(tp2_posambivalent) +"%</strong></div> </div>"
 		dataTable = dataTable +"<div class='col-lg-3 '> <div class='contact-stat'><span class='text-center'>Negative </span> <strong>"+ Math.round(tp2_negambivalent) +"%</strong></div> </div>"
 		dataTable = dataTable +"<div class='col-lg-3 border-left'> <div class='contact-stat'><span class='text-center'>Detractors </span> <strong>"+ Math.round(tp2_detractor) +"%</strong></div> </div>"
